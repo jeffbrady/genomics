@@ -2,7 +2,6 @@
 
 #This is a paired end workflow for the prokaryotic primers CAGCMGCCGCGGTAA and TACNVGGGTATCTAATCC and Bacterial primers CCTACGGGNGGCWGCAG and GACTACHVGGGTATCTAATCCthat uses usearch for to merge reads and length filters based on read quality before merging
 
-
 DATASET_NAME=Bell.12.21.2015
 MY_NAME=JeffBrady
 
